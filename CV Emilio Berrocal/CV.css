@@ -1,0 +1,33 @@
+body{
+    font-size: larger;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+
+img{
+    width: 185px;
+    height: 185px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+#ContactInfo{
+    font-size: larger;
+}
+
+#Exp{
+    font-size: larger;
+    margin: 0;
+    margin-top: 3%;
+}
+
+#Acad{
+    font-size: larger;
+}
+
+#Ab{
+    font-size: larger;
+}
