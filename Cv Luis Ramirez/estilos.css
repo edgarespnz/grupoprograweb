@@ -1,0 +1,22 @@
+
+h1{
+    color: green;
+    text-align: center;
+}
+h2{
+    color: brown;
+    font-size: 1.5em;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: medium;
+}
+div{
+    font-size: medium;
+    text-align: center;
+}
+li{
+    font-size: medium;
+    text-align: center;
+}
