@@ -1,0 +1,23 @@
+h1{
+    background-color: whitesmoke;
+    font-family: 'quicksand', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    
+}
+
+h2{
+    font-size: 2em;
+    text-align: center;
+
+}
+
+p{
+    border:0.5em;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
